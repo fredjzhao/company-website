@@ -5,7 +5,7 @@ body {
 .header-section, .footer-section {
     color: white;
     background-color: #233957;
-    padding: 10px 320px;
+    padding: 10px 20%;
 }
 
 .header-section {
@@ -42,7 +42,7 @@ body {
 
 .testimonial-section {    
     background-color: #E5E7EB;
-    padding: 100px 400px;
+    padding: 100px 20%;
 }
 
 .testimonial {
@@ -63,8 +63,8 @@ body {
     display: flex;
     background-color: #3882F6;
     border-radius: 25px;
-    padding: 25px 100px;
-    margin: 100px 400px;
+    padding: 25px 5%;
+    margin: 100px 20%;
     align-items: center;
     justify-content: space-between;
 }
